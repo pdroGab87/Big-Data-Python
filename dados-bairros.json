@@ -139,11 +139,11 @@
   },
   "Alto José do Pinho": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "8 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -231,11 +231,11 @@
   },
   "Alto do Mandu": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -464,7 +464,7 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "58 registros de acidentes",
+        "acidentes": "57 registros de acidentes",
         "cor": "#ff7575"
       },
       "2016": {
@@ -599,11 +599,11 @@
   },
   "Bomba do Hemetério": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "19 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -691,11 +691,11 @@
   },
   "Brasília Teimosa": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Sul",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "12 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -737,11 +737,11 @@
   },
   "Brejo da Guabiraba": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -786,8 +786,8 @@
     "regiao": "",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "1 registro de acidente",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -921,11 +921,11 @@
   },
   "Campina do Barreto": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -967,11 +967,11 @@
   },
   "Campo Grande": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "108 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "",
@@ -1197,11 +1197,11 @@
   },
   "Cidade Universitária": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Oeste",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "60 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "",
@@ -1473,11 +1473,11 @@
   },
   "Córrego do Jenipapo": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -1565,11 +1565,11 @@
   },
   "Dois Irmãos": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "37 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -1936,7 +1936,7 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "18 registros de acidentes",
+        "acidentes": "13 registros de acidentes",
         "cor": "#ffb4b4"
       },
       "2016": {
@@ -2669,11 +2669,11 @@
   },
   "Mangabeira": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "14 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -2807,11 +2807,11 @@
   },
   "Morro da Conceição": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -2899,11 +2899,11 @@
   },
   "Nova Descoberta": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "38 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -3221,11 +3221,11 @@
   },
   "Ponto de Parada": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "1 registro de acidente",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -3267,11 +3267,11 @@
   },
   "Porto da Madeira": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "11 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -3451,11 +3451,11 @@
   },
   "Rosarinho": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "39 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -3819,11 +3819,11 @@
   },
   "Sítio dos Pintos - São Brás": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -4141,11 +4141,11 @@
   },
   "Vasco da Gama": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "26 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "",
@@ -4279,11 +4279,11 @@
   },
   "Água Fria": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "82 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "",
