@@ -93,11 +93,11 @@
   },
   "Alto José Bonifácio": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "13 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "10 registros de acidentes",
@@ -185,11 +185,11 @@
   },
   "Alto Santa Terezinha": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "9 registros de acidentes",
@@ -466,10 +466,6 @@
       "2015": {
         "acidentes": "57 registros de acidentes",
         "cor": "#ff7575"
-      },
-      "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
       },
       "2016": {
         "acidentes": "99 registros de acidentes",
@@ -1155,11 +1151,11 @@
   },
   "Caçote": {
     "cor": "#6b7280",
-    "regiao": "Zona Oeste",
+    "regiao": "Zona Sul",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "8 registros de acidentes",
@@ -1802,8 +1798,8 @@
     "regiao": "Zona Oeste",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "99 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "128 registros de acidentes",
@@ -1848,8 +1844,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "23 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "21 registros de acidentes",
@@ -1894,8 +1890,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "115 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "227 registros de acidentes",
@@ -1986,8 +1982,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "12 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "19 registros de acidentes",
@@ -2443,7 +2439,7 @@
   },
   "Jiquiá": {
     "cor": "#6b7280",
-    "regiao": "Zona Sul",
+    "regiao": "Zona Oeste",
     "anos": {
       "2015": {
         "acidentes": "8 registros de acidentes",
@@ -2492,8 +2488,8 @@
     "regiao": "Zona Sul",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "73 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "101 registros de acidentes",
@@ -3315,13 +3311,13 @@
       }
     }
   },
-  "Poço da Panela": {
+  "Poço": {
     "cor": "#6b7280",
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "2 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "4 registros de acidentes",
@@ -3685,11 +3681,11 @@
   },
   "Santo Antônio": {
     "cor": "#6b7280",
-    "regiao": "Zona Norte",
+    "regiao": "Centro",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "65 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "104 registros de acidentes",
@@ -3780,8 +3776,8 @@
     "regiao": "Centro",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "151 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2016": {
         "acidentes": "234 registros de acidentes",
@@ -4010,8 +4006,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "19 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "24 registros de acidentes",
@@ -4056,8 +4052,8 @@
     "regiao": "Zona Oeste",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "20 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "73 registros de acidentes",
@@ -4191,11 +4187,11 @@
   },
   "Várzea": {
     "cor": "#6b7280",
-    "regiao": "Zona Norte",
+    "regiao": "Zona Oeste",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "48 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "181 registros de acidentes",
