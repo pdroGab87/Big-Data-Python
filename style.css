@@ -1,3 +1,12 @@
+:root {
+  --color-1: #ffb4b4;   /* 1-50 acidentes no ano */
+  --color-2: #ff7575;    /* 51-150 acidentes no ano */
+  --color-3: #ff3939;    /* 151-250 acidentes no ano */
+  --color-4: #ff0202;    /* 251-350 acidentes no ano */
+  --color-5: #7c0101;    /* 351+ acidentes no ano */
+}
+ 
+
 * {
   margin: 0;
   padding: 0;

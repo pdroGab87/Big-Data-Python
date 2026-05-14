@@ -8,8 +8,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "68 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -54,8 +54,8 @@
         "cor": "#ff0202"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "463 registros de acidentes",
+        "cor": "#7c0101"
       },
       "2017": {
         "acidentes": "",
@@ -100,8 +100,8 @@
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "10 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -146,8 +146,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -192,8 +192,8 @@
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "9 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -238,8 +238,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -284,8 +284,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "57 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -330,8 +330,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "171 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -376,8 +376,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "143 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -422,8 +422,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "66 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -471,6 +471,10 @@
         "acidentes": "",
         "cor": "#6b7280"
       },
+      "2016": {
+        "acidentes": "99 registros de acidentes",
+        "cor": "#ff7575"
+      },
       "2017": {
         "acidentes": "",
         "cor": "#6b7280"
@@ -514,8 +518,8 @@
         "acidentes": "953 registros de acidentes"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "1601 registros de acidentes",
+        "cor": "#7c0101"
       },
       "2017": {
         "acidentes": "",
@@ -560,8 +564,8 @@
         "cor": "#ff0202"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "412 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -606,8 +610,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "28 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -652,8 +656,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "93 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -698,8 +702,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "13 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -744,8 +748,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -783,15 +787,15 @@
   },
   "Brejo de Beberibe": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "1 registro de acidente",
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -836,8 +840,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "57 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -882,8 +886,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "12 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -928,8 +932,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "6 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -974,8 +978,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "172 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -1020,8 +1024,8 @@
         "acidentes": "202 registros de acidentes"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "294 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -1066,8 +1070,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "167 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -1112,8 +1116,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "236 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -1151,15 +1155,15 @@
   },
   "Caçote": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Oeste",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "8 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1204,8 +1208,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "65 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -1250,8 +1254,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "25 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -1296,8 +1300,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1342,8 +1346,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "9 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1388,8 +1392,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "234 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -1434,8 +1438,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "43 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1480,8 +1484,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1526,8 +1530,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "355 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -1572,8 +1576,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "62 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1618,8 +1622,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "37 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1664,8 +1668,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "157 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -1710,8 +1714,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "138 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -1756,8 +1760,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "228 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -1795,15 +1799,15 @@
   },
   "Estância": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Oeste",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "128 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -1841,15 +1845,15 @@
   },
   "Fundão": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "21 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1887,15 +1891,15 @@
   },
   "Graças": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "227 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -1940,8 +1944,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "19 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -1979,15 +1983,15 @@
   },
   "Hipódromo": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "19 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2032,8 +2036,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "231 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -2078,8 +2082,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "33 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2124,8 +2128,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "115 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -2170,8 +2174,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "111 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -2216,8 +2220,8 @@
         "cor": "#7c0101"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "681 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -2262,8 +2266,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "313 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -2308,8 +2312,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "139 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -2354,8 +2358,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "46 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2400,8 +2404,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "123 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2446,8 +2450,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "14 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2485,15 +2489,15 @@
   },
   "Jordão": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Sul",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "101 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -2538,8 +2542,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "21 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2584,8 +2588,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "80 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -2630,8 +2634,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "384 registros de acidentes",
+        "cor": "#7c0101"
       },
       "2017": {
         "acidentes": "",
@@ -2676,8 +2680,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "11 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2722,8 +2726,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "20 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2768,8 +2772,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2814,8 +2818,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2860,8 +2864,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "27 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -2906,8 +2910,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "63 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -2952,8 +2956,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "63 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -2998,8 +3002,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "83 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3044,8 +3048,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "10 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3182,8 +3186,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "272 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3228,8 +3232,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3274,8 +3278,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "16 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3311,17 +3315,17 @@
       }
     }
   },
-  "Poço": {
+  "Poço da Panela": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3366,8 +3370,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "102 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3412,8 +3416,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "132 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -3458,8 +3462,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "78 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -3504,8 +3508,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "159 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3550,8 +3554,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "16 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3596,8 +3600,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "6 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3642,8 +3646,8 @@
         "cor": "#7c0101"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "556 registros de acidentes",
+        "cor": "#7c0101"
       },
       "2017": {
         "acidentes": "",
@@ -3681,15 +3685,15 @@
   },
   "Santo Antônio": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "104 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3734,8 +3738,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "8 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3773,15 +3777,15 @@
   },
   "São José": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Centro",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "234 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3826,8 +3830,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -3872,8 +3876,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "114 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3918,8 +3922,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "88 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -3964,8 +3968,8 @@
         "cor": "#ff3939"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "239 registros de acidentes",
+        "cor": "#ff0202"
       },
       "2017": {
         "acidentes": "",
@@ -4003,15 +4007,15 @@
   },
   "Torreão": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "24 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -4049,15 +4053,15 @@
   },
   "Torrões": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Oeste",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "73 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -4102,8 +4106,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "18 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -4148,8 +4152,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "44 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2017": {
         "acidentes": "",
@@ -4187,15 +4191,15 @@
   },
   "Várzea": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
         "acidentes": "",
         "cor": "#6b7280"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "181 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
@@ -4240,8 +4244,8 @@
         "cor": "#ffb4b4"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "10 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2017": {
         "acidentes": "",
@@ -4286,8 +4290,8 @@
         "cor": "#ff7575"
       },
       "2016": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "112 registros de acidentes",
+        "cor": "#ff3939"
       },
       "2017": {
         "acidentes": "",
