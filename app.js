@@ -27,7 +27,7 @@ let selectedYear = null;
 let dadosBairros = {};
 let camadaBairros = null;
 
-const years = Array.from({ length: 11 }, (_, index) => 2014 + index);
+const years = Array.from({ length: 10 }, (_, index) => 2015 + index);
 
 function renderYearList() {
   if (!yearList) return;
@@ -90,11 +90,6 @@ function atualizarSidebar(nome, dados = {}) {
       <div class="bairro-item">
         <strong>Região:</strong><br>
         ${dados.regiao || "Sem dados"}
-      </div>
-
-      <div class="bairro-item">
-        <strong>Observação:</strong><br>
-        ${anoDados.observacao || "Sem dados"}
       </div>
     ` : `
       <div class="placeholder">
