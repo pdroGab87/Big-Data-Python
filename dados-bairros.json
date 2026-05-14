@@ -139,11 +139,11 @@
   },
   "Alto José do Pinho": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "8 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "5 registros de acidentes",
@@ -231,11 +231,11 @@
   },
   "Alto do Mandu": {
     "cor": "#6b7280",
-    "regiao": "",
+    "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "4 registros de acidentes",
@@ -464,6 +464,10 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
+        "acidentes": "57 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
         "acidentes": "",
         "cor": "#6b7280"
       },
@@ -602,8 +606,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "19 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "28 registros de acidentes",
@@ -694,8 +698,8 @@
     "regiao": "Zona Sul",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "12 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "13 registros de acidentes",
@@ -740,8 +744,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "3 registros de acidentes",
@@ -786,8 +790,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "1 registro de acidente",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "3 registros de acidentes",
@@ -924,8 +928,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "6 registros de acidentes",
@@ -970,8 +974,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "108 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "172 registros de acidentes",
@@ -1200,8 +1204,8 @@
     "regiao": "Zona Oeste",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "60 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "65 registros de acidentes",
@@ -1476,8 +1480,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "4 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "4 registros de acidentes",
@@ -1568,8 +1572,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "37 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "62 registros de acidentes",
@@ -1936,7 +1940,7 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "18 registros de acidentes",
+        "acidentes": "13 registros de acidentes",
         "cor": "#ffb4b4"
       },
       "2016": {
@@ -2672,8 +2676,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "14 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "11 registros de acidentes",
@@ -2810,8 +2814,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "4 registros de acidentes",
@@ -2902,8 +2906,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "38 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "63 registros de acidentes",
@@ -3224,8 +3228,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "1 registro de acidente",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "3 registros de acidentes",
@@ -3270,8 +3274,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "11 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "16 registros de acidentes",
@@ -3454,8 +3458,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "39 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "78 registros de acidentes",
@@ -3822,8 +3826,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "3 registros de acidentes",
@@ -4144,8 +4148,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "26 registros de acidentes",
+        "cor": "#ffb4b4"
       },
       "2016": {
         "acidentes": "44 registros de acidentes",
@@ -4282,8 +4286,8 @@
     "regiao": "Zona Norte",
     "anos": {
       "2015": {
-        "acidentes": "",
-        "cor": "#6b7280"
+        "acidentes": "82 registros de acidentes",
+        "cor": "#ff7575"
       },
       "2016": {
         "acidentes": "112 registros de acidentes",
