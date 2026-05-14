@@ -1,170 +1,199 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* =========================
+   MAPA
+========================= */
 
-body {
-  display: flex;
-  width: 100%;
-  height: 100vh;
-  overflow: hidden;
-  font-family: Arial, Helvetica, sans-serif;
-  background: #f3f4f6;
-}
+const map = L.map("map", {
+  zoomControl: true
+}).setView([-8.0476, -34.8770], 12);
 
-/* SIDEBAR */
+/* =========================
+   TILE LAYER
+========================= */
 
-#sidebar {
-  width: 340px;
-  min-width: 340px;
-  background: #111827;
-  color: white;
-  padding: 24px;
-  overflow-y: auto;
-  border-right: 1px solid #1f2937;
-}
-
-#sidebar h1 {
-  font-size: 32px;
-  margin-bottom: 8px;
-}
-
-.subtitulo {
-  color: #9ca3af;
-  margin-bottom: 24px;
-}
-
-#info {
-  line-height: 1.7;
-}
-
-.placeholder {
-  color: #9ca3af;
-}
-
-.sidebar-section {
-  margin-bottom: 24px;
-}
-
-.sidebar-section h2 {
-  font-size: 18px;
-  margin-bottom: 12px;
-  color: #e5e7eb;
-}
-
-.year-list {
-  list-style: none;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px;
-  margin-bottom: 0;
-}
-
-.year-list li {
-  background: #1f2937;
-  padding: 10px 12px;
-  border-radius: 10px;
-  color: #d1d5db;
-  font-size: 14px;
-  cursor: pointer;
-  transition: background 0.2s ease;
-}
-
-.year-list li:hover,
-.year-list li.active {
-  background: #2563eb;
-  color: white;
-}
-
-.legend {
-  display: grid;
-  gap: 10px;
-}
-
-.legend-item {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 14px;
-  color: #d1d5db;
-}
-
-.legend-color {
-  width: 14px;
-  height: 14px;
-  border-radius: 50%;
-  display: inline-block;
-  flex-shrink: 0;
-}
-
-.color-1 {
-  background: #ffb4b4;
-}
-
-.color-2 {
-  background: #ff7575;
-}
-
-.color-3 {
-  background: #ff3939;
-}
-
-.color-4 {
-  background: #ff0202;
-}
-
-.color-5 {
-  background: #7c0101;
-}
-
-/* MAPA */
-
-#map {
-  flex: 1;
-  height: 100vh;
-}
-
-/* INFO BAIRRO */
-
-.bairro-titulo {
-  font-size: 28px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
-
-.bairro-item {
-  margin-bottom: 16px;
-}
-
-.bairro-item strong {
-  color: #93c5fd;
-}
-
-/* TOOLTIP */
-
-.leaflet-tooltip {
-  font-size: 14px;
-  font-weight: bold;
-  padding: 6px 10px;
-}
-
-/* RESPONSIVO */
-
-@media (max-width: 768px) {
-
-  body {
-    flex-direction: column;
+L.tileLayer(
+  "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  {
+    attribution: "&copy; OpenStreetMap contributors"
   }
+).addTo(map);
 
-  #sidebar {
-    width: 100%;
-    min-width: 100%;
-    height: 260px;
-  }
+/* =========================
+   SIDEBAR
+========================= */
 
-  #map {
-    height: calc(100vh - 260px);
-  }
+const info = document.getElementById("info");
+const yearList = document.getElementById("year-list");
+let selectedYear = null;
+let dadosBairros = {};
+let camadaBairros = null;
 
+const years = Array.from({ length: 11 }, (_, index) => 2014 + index);
+
+function renderYearList() {
+  if (!yearList) return;
+
+  yearList.innerHTML = years
+    .map(year => `<li class="year-item" data-year="${year}">${year}</li>`)
+    .join("");
 }
+
+function atualizarAnoSelecionado(year, element) {
+  selectedYear = year;
+
+  document.querySelectorAll(".year-list li").forEach(item => {
+    item.classList.toggle("active", item === element);
+  });
+
+  atualizarEstilosMapa();
+  atualizarSidebar();
+}
+
+function atualizarEstilosMapa() {
+  if (!camadaBairros) return;
+
+  camadaBairros.eachLayer(layer => {
+    const feature = layer.feature;
+    const nome = feature.properties.EBAIRRNOMEOF;
+    const dados = dadosBairros[nome];
+
+    if (dados) {
+      const anoDados = selectedYear ? dados.anos?.[selectedYear] : null;
+      const cor = anoDados?.cor || dados.cor || "#6b7280";
+
+      layer.setStyle({
+        fillColor: cor,
+        fillOpacity: 0.7,
+        color: "#ffffff",
+        weight: 1.5
+      });
+    }
+  });
+}
+
+function atualizarSidebar(nome, dados = {}) {
+  const anoTexto = selectedYear ? `Ano selecionado: ${selectedYear}` : "Selecione um ano";
+  const anoDados = selectedYear ? dados.anos?.[selectedYear] || {} : {};
+
+  info.innerHTML = `
+    <div class="sidebar-year">${anoTexto}</div>
+
+    ${nome ? `
+      <div class="bairro-titulo">
+        ${nome}
+      </div>
+
+      <div class="bairro-item">
+        <strong>Acidentes de trânsito:</strong><br>
+        ${anoDados.acidentes || "Sem dados"}
+      </div>
+
+      <div class="bairro-item">
+        <strong>Região:</strong><br>
+        ${dados.regiao || "Sem dados"}
+      </div>
+
+      <div class="bairro-item">
+        <strong>Observação:</strong><br>
+        ${anoDados.observacao || "Sem dados"}
+      </div>
+    ` : `
+      <div class="placeholder">
+        ${selectedYear ? `Você selecionou ${selectedYear}. Clique em um bairro para ver os dados de acidentes.` : "Selecione um ano ou clique em um bairro no mapa para visualizar as informações."}
+      </div>
+    `}
+  `;
+}
+
+renderYearList();
+
+if (yearList) {
+  yearList.addEventListener("click", event => {
+    const item = event.target.closest("li[data-year]");
+    if (!item) return;
+
+    atualizarAnoSelecionado(Number(item.dataset.year), item);
+  });
+}
+
+/* =========================
+   GEOJSON
+========================= */
+
+Promise.all([
+  fetch("dados-bairros.json").then(response => response.json()),
+  fetch("bairros-do-recife.geojson").then(response => response.json())
+])
+  .then(([dadosJson, geojson]) => {
+    dadosBairros = dadosJson;
+
+    camadaBairros = L.geoJSON(geojson, {
+
+      /* =========================
+         ESTILO
+      ========================= */
+
+      style: feature => {
+        const nome = feature.properties.EBAIRRNOMEOF;
+        const dados = dadosBairros[nome];
+
+        if (dados) {
+          const anoDados = selectedYear ? dados.anos?.[selectedYear] : null;
+          const cor = anoDados?.cor || dados.cor || "#6b7280";
+
+          return {
+            color: "#ffffff",
+            weight: 1.5,
+            fillColor: cor,
+            fillOpacity: 0.7
+          };
+        }
+
+        return {
+          color: "#ffffff",
+          weight: 1.5,
+          fillColor: "#6b7280",
+          fillOpacity: 0.7
+        };
+      },
+
+      /* =========================
+         EVENTOS
+      ========================= */
+
+      onEachFeature: (feature, layer) => {
+        const nome = feature.properties.EBAIRRNOMEOF;
+        const dados = dadosBairros[nome] || {};
+
+        layer.bindTooltip(nome, {
+          sticky: true
+        });
+
+        layer.on({
+
+          click: () => {
+            atualizarSidebar(nome, dados);
+            map.fitBounds(layer.getBounds());
+          },
+
+          mouseover: () => {
+            layer.setStyle({
+              fillOpacity: 1,
+              weight: 3
+            });
+            layer.bringToFront();
+          },
+
+          mouseout: () => {
+            atualizarEstilosMapa();
+          }
+
+        });
+      }
+    });
+
+    camadaBairros.addTo(map);
+  })
+
+  .catch(error => {
+    console.error("Erro ao carregar GeoJSON:", error);
+  });
