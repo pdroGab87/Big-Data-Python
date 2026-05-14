@@ -1,0 +1,4326 @@
+{
+  "Aflitos": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "44 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Afogados": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "270 registros de acidentes",
+        "cor": "#ff0202"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Alto José Bonifácio": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Alto José do Pinho": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Alto Santa Terezinha": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Alto do Mandu": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Apipucos": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "37 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Areias": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "134 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Arruda": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "95 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Barro": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "40 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Beberibe": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "58 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Boa Viagem": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "cor": "#7c0101",
+        "acidentes": "953 registros de acidentes"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Boa Vista": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "260 registros de acidentes",
+        "cor": "#ff0202"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Bomba do Hemetério": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Bongi": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "55 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Brasília Teimosa": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Brejo da Guabiraba": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Brejo de Beberibe": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Cabanga": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "33 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Cajueiro": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "14 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Campina do Barreto": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Campo Grande": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Casa Amarela": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "cor": "#ff3939",
+        "acidentes": "202 registros de acidentes"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Casa Forte": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "123 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Caxangá": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "169 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Caçote": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Cidade Universitária": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Coelhos": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "15 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Cohab - Ibura de Cima": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "2 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Coqueiral": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "3 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Cordeiro": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "162 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Curado": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "41 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Córrego do Jenipapo": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Derby": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "216 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Dois Irmãos": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Dois Unidos": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "22 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Encruzilhada": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "109 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Engenho do Meio": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "34 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Espinheiro": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "138 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Estância": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Fundão": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Graças": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Guabiraba": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "18 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Hipódromo": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Ibura": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "131 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Ilha Joana Bezerra": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "35 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Ilha do Leite": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "63 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Ilha do Retiro": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "71 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Imbiribeira": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "487 registros de acidentes",
+        "cor": "#7c0101"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Ipsep": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "189 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Iputinga": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "115 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Jaqueira": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "29 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Jardim São Paulo": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "87 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Jiquiá": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "8 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Jordão": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Linha do Tiro": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "7 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Macaxeira": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "53 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Madalena": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "217 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Mangabeira": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Mangueira": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "9 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Monteiro": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "1 registro de acidente",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Morro da Conceição": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Mustardinha": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "16 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Nova Descoberta": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Paissandu": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "45 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Parnamirim": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "62 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Passarinho": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "5 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Pau Ferro": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Peixinhos": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Pina": {
+    "cor": "#6b7280",
+    "regiao": "Zona Sul",
+    "anos": {
+      "2015": {
+        "acidentes": "171 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Ponto de Parada": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Porto da Madeira": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Poço": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Prado": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "72 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Recife": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "101 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Rosarinho": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "San Martin": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "115 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Sancho": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "7 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Santana": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "2 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Santo Amaro": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "351 registros de acidentes",
+        "cor": "#7c0101"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Santo Antônio": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Soledade": {
+    "cor": "#6b7280",
+    "regiao": "Centro",
+    "anos": {
+      "2015": {
+        "acidentes": "6 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "São José": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Sítio dos Pintos - São Brás": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Tamarineira": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "75 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Tejipió": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "58 registros de acidentes",
+        "cor": "#ff7575"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Torre": {
+    "cor": "#6b7280",
+    "regiao": "Zona Norte",
+    "anos": {
+      "2015": {
+        "acidentes": "188 registros de acidentes",
+        "cor": "#ff3939"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Torreão": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Torrões": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Totó": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "13 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Vasco da Gama": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Várzea": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Zumbi": {
+    "cor": "#6b7280",
+    "regiao": "Zona Oeste",
+    "anos": {
+      "2015": {
+        "acidentes": "2 registros de acidentes",
+        "cor": "#ffb4b4"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  },
+  "Água Fria": {
+    "cor": "#6b7280",
+    "regiao": "",
+    "anos": {
+      "2015": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2016": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2017": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2018": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2019": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2020": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2021": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2022": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2023": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      },
+      "2024": {
+        "acidentes": "",
+        "cor": "#6b7280"
+      }
+    }
+  }
+}
