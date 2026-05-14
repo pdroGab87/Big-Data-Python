@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>Mapa Interativo do Recife</title>
+
+  <!-- Leaflet -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet/dist/leaflet.css"
+  />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- Sidebar -->
+  <aside id="sidebar">
+
+    <h1>Recife</h1>
+
+    <p class="subtitulo">
+      Clique em um bairro
+    </p>
+
+    <section class="sidebar-section">
+      <h2>Anos</h2>
+      <ul class="year-list" id="year-list"></ul>
+    </section>
+
+    <section class="sidebar-section">
+      <h2>Legenda de cores</h2>
+      <div class="legend">
+        <div class="legend-item">
+          <span class="legend-color color-1"></span>
+          1-50 acidentes no ano
+        </div>
+        <div class="legend-item">
+          <span class="legend-color color-2"></span>
+          51-150 acidentes no ano
+        </div>
+        <div class="legend-item">
+          <span class="legend-color color-3"></span>
+          151-250 acidentes no ano
+        </div>
+        <div class="legend-item">
+          <span class="legend-color color-4"></span>
+          251-350 acidentes no ano
+        </div>
+        <div class="legend-item">
+          <span class="legend-color color-5"></span>
+          351+ acidentes no ano
+        </div>
+      </div>
+    </section>
+
+    <div id="info">
+
+      <div class="placeholder">
+        Selecione um bairro no mapa para visualizar as informações.
+      </div>
+
+    </div>
+
+  </aside>
+
+  <!-- Mapa -->
+  <main id="map"></main>
+
+  <!-- Leaflet -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <!-- App -->
+  <script src="app.js"></script>
+
+</body>
+</html>
