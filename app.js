@@ -26,6 +26,7 @@ const yearList = document.getElementById("year-list");
 let selectedYear = null;
 let dadosBairros = {};
 let camadaBairros = null;
+const excludedBairros = new Set(["Peixinhos", "Pau Ferro"]);
 
 const years = Array.from({ length: 10 }, (_, index) => 2015 + index);
 
@@ -122,6 +123,7 @@ Promise.all([
     dadosBairros = dadosJson;
 
     camadaBairros = L.geoJSON(geojson, {
+      filter: feature => !excludedBairros.has(feature.properties.EBAIRRNOMEOF),
 
       /* =========================
          ESTILO
