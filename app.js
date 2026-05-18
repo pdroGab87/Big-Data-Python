@@ -17,6 +17,21 @@ L.tileLayer(
   }
 ).addTo(map);
 
+map.createPane('maskPane');
+map.getPane('maskPane').style.zIndex = 300;
+map.getPane('maskPane').style.pointerEvents = 'none';
+
+L.rectangle(
+  [[-90, -180], [90, 180]],
+  {
+    color: '#000000',
+    weight: 0,
+    fillColor: '#000000',
+    fillOpacity: 0.38,
+    pane: 'maskPane'
+  }
+).addTo(map);
+
 /* =========================
    SIDEBAR
 ========================= */
